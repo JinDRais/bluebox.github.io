@@ -2443,3 +2443,7 @@ input, select, textarea {
 					}
 
 	}
+
+	#otherprojects .col-12.col-12-medium {
+    margin-bottom: 40px;
+}
